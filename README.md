@@ -1,4 +1,4 @@
-# Landing_Page_Bella-Bot
+# Landing_Page_Balle-Bot
 Este é um projeto simples, onde foi criado uma landing page da Balle-Bot
 
 <h1 align="center">
@@ -6,7 +6,7 @@ Este é um projeto simples, onde foi criado uma landing page da Balle-Bot
 </h1>
 
 <p align="center">
-  <img alt="Balle Bot" src=".github/Balle Bot" width="100%">
+  <img alt="Balle Bot" src=".github/BalleBot" width="100%">
 </p>
 
 
