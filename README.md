@@ -6,7 +6,7 @@ Este é um projeto simples, onde foi criado uma landing page da Balle-Bot
 </h1>
 
 <p align="center">
-  <img alt="Balle Bot" src="" width="100%">
+  <img alt="Balle Bot" src=".github/Balle Bot" width="100%">
 </p>
 
 
