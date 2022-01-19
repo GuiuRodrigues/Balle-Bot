@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 E uma landing page criada da Balle Bot, da comunidade da Ballerine.
 
-Veja o projeto funcionando através [desse link](https://marcosguilherm.github.io/Bella-Bot/)
+Veja o projeto funcionando através [desse link](https://marcosguilherm.github.io/Balle-Bot/)
 
 ## 🔖 Layout
 
