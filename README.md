@@ -1,12 +1,14 @@
-# Landing_Page_Balle-Bot
-Este é um projeto simples, onde foi criado uma landing page da Balle-Bot
 
 <h1 align="center">
-  Balle Bot
+  Landing Page Balle-Bot
 </h1>
 
+<h3 align="center">
+  Este é um projeto simples, onde foi criado uma landing page da Balle-Bot
+</h3>
+
 <p align="center">
-  <img alt="Balle Bot" src=".github/BalleBot" width="100%">
+  <img alt="Balle Bot" src=".github/BalleBot.gif" width="100%">
 </p>
 
 
